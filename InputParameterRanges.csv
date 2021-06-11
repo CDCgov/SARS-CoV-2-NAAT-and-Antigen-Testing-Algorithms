@@ -1,0 +1,22 @@
+param.name,description,point,low,high
+sx.cases,"Symptomatic
+Cases",0.6675,0.538,0.842
+sx.noncases,"Symptomatic
+Non-Cases",0.3187,0.1796,0.531
+ag.sens.sx,"Symptomatic 
+Ag Sensitivity",0.8002,0.642,0.939
+ag.sens.asx,"Asymptomatic
+Ag Sensitivity",0.5544,0.412,0.692
+ag.spec.sx,"Symptomatic
+Ag Specificity",0.99675,0.989,1
+ag.spec.asx,"Asymptomatic
+Ag Specificity",0.9926,0.984,0.998
+naat.sens,NAAT Sensitvity,1,1,1
+naat.spec,NAAT Specificity,1,1,1
+ag.sens.repeat,"Conditional
+Ag2 Sensitivity",0.184,0.104,0.29
+ag.spec.repeat,"Conditional
+Ag2 Specificity",1,0.9979,1
+asx.noncases.contacts,Proportion of Asymptomatic Non-cases with close contact in the past 14 days,0.269,0.087,0.451
+naat.delay,"Mean Delay in
+NAAT Result",3,1,5
